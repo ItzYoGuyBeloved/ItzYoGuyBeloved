@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Beloved\ 👋
 
-<!--
-**ItzYoGuyBeloved/ItzYoGuyBeloved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring software developer learning to build useful things with code and AI.
 
-Here are some ideas to get you started:
+## Currently learning
+- Python
+- Ruby
+- Software 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Software Engineering
+- Artificial intelligence
+
+## Goals
+- Build projects that solve real problems
+- Improve my programming skills
+- Develop a portfolio of my work
