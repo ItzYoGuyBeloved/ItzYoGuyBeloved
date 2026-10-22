@@ -1,4 +1,4 @@
-# Hey, I'm Beloved\ 👋
+# Hey, I'm Beloved 👋
 
 Aspiring software developer learning to build useful things with code and AI.
 
